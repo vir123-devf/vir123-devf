@@ -27,7 +27,6 @@
 </tr>
 </table>
 
----
 ### 👨‍💻 All of my projects are available at:
 - [GitHub Repositories](https://github.com/vir123-devf?tab=repositories)
 
