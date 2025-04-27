@@ -250,3 +250,83 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vir123-devf&" alt="vir123-devf" />
 </p>
 
+
+<h1 align="center">Hi 👋, I'm Virendra</h1>
+<h3 align="center">A passionate AI/ML Developer</h3>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vir123-devf&label=Profile%20views&color=0e75b6&style=flat" alt="vir123-devf" /> 
+</p>
+
+<!-- Snake Game GIF as Background Wallpaper -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="position: absolute; top: 0; left: 0; z-index: -1; width: 100%; height: 100%; object-fit: cover; opacity: 0.3;" alt="Snake Game Background" />
+</p>
+
+<table>
+<tr>
+<td width="55%">
+
+### 🔭 I'm currently working on:
+- **[Plant Disease Prediction using CNN](https://github.com/vir123-devf/Plant_Disease_Predictor)** - Built a CNN model with TensorFlow and Streamlit to classify plant diseases with 97% training and 88% validation accuracy.
+
+### 👯 I'm looking to collaborate on:
+- **Machine Learning projects**, especially in **Computer Vision** and **Time-Series Analysis**.
+
+### 🤝 I'm looking for help with:
+- **Optimizing Machine Learning models** for better performance.
+
+</td>
+
+<td width="45%" align="center">
+  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Developer GIF" />
+
+</td>
+</tr>
+</table>
+
+### 👨‍💻 All of my projects are available at:
+- [GitHub Repositories](https://github.com/vir123-devf?tab=repositories)
+
+### 💬 Ask me about:
+- **Machine Learning frameworks** (like TensorFlow, Keras)
+- **Data Science concepts** and techniques.
+
+### 📫 How to reach me:
+- **Email:** virendrabadgo@gmail.com
+
+### 📄 Know about my experiences:
+- [Resume and Experiences](https://drive.google.com/drive/folders/1SW4lPpe8Lj4dDvllGhCEckAjM5M86M1Z?usp=sharing)
+
+### ⚡ Fun fact:
+- I can spend hours getting lost in the fascinating world of algorithms and AI, but I also love cracking jokes about tech!
+
+### 🌱 Connect with me:
+<p align="center">
+  <a href="https://linkedin.com/in/virendra-badgotya/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/virendrabadgotya" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/r8xVt4bn" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+</p>
+
+### 💻 Languages and Tools:
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/>
+  </a> 
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="80" height="40"/>
+  </a> 
+  <
+
