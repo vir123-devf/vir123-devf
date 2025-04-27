@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/virendra-badgotya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virendra-badgotya/" height="30" width="40" /></a>
 <a href="https://kaggle.com/virendrabadgotya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="virendrabadgotya" height="30" width="40" /></a>
+<a href="https://discord.gg/r8xVt4bn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="r8xVt4bn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vir123-devf&show_icons=true&locale=en" alt="vir123-devf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vir123-devf&" alt="vir123-devf" /></p>
+
