@@ -107,7 +107,9 @@
 </p>
 
 ---
-
+<p align="Right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Developer GIF" />
+</p>
 ### 🔭 I'm currently working on:
 - **[Plant Disease Prediction using CNN](https://github.com/vir123-devf/Plant_Disease_Predictor)** - Built a CNN model with TensorFlow and Streamlit to classify plant diseases with 97% training and 88% validation accuracy.
 
