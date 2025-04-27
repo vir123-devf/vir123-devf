@@ -107,9 +107,6 @@
 </p>
 
 ---
-<p align="Right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Developer GIF" />
-</p>
 ### 🔭 I'm currently working on:
 - **[Plant Disease Prediction using CNN](https://github.com/vir123-devf/Plant_Disease_Predictor)** - Built a CNN model with TensorFlow and Streamlit to classify plant diseases with 97% training and 88% validation accuracy.
 
@@ -266,4 +263,26 @@
 </p>
 
 ---
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div style="flex: 1;">
+
+### 🔭 I'm currently working on:
+- **[Plant Disease Prediction using CNN](https://github.com/vir123-devf/Plant_Disease_Predictor)** - Built a CNN model with TensorFlow and Streamlit to classify plant diseases with 97% training and 88% validation accuracy.
+
+### 👯 I'm looking to collaborate on:
+- **Machine Learning projects**, especially in **Computer Vision** and **Time-Series Analysis**.
+
+### 🤝 I'm looking for help with:
+- **Optimizing Machine Learning models** for better performance.
+
+</div>
+
+<div style="flex: 1; text-align: center;">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Developer GIF" />
+
+</div>
+
+</div>
 
