@@ -56,8 +56,6 @@
   </a>
 </p>
 
----
-
 ### 💻 Languages and Tools:
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
