@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Virendra</h1>
 <h3 align="center">A passionate AI/ML Developer</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/developer.svg" alt="developer" width="200" height="200"/>
-</p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vir123-devf&label=Profile%20views&color=0e75b6&style=flat" alt="vir123-devf" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vir123-devf" alt="vir123-devf" /></a> </p>
@@ -14,17 +10,14 @@
 ### 🔭 I'm currently working on:
 - **[Plant Disease Prediction using CNN](https://github.com/vir123-devf/Plant-Disease-Prediction)** - Built a CNN model with TensorFlow and Streamlit to classify plant diseases with an accuracy of 97% (training) and 88% (validation).
 
----
 
 ### 👯 I'm looking to collaborate on:
 - **Machine Learning projects**, especially in **computer vision** and **time-series analysis**.
 
----
 
 ### 🤝 I'm looking for help with:
 - **Optimizing machine learning models** for better performance.
 
----
 
 ### 👨‍💻 All of my projects are available at:
 - [GitHub Repositories](https://github.com/vir123-devf?tab=repositories)
@@ -35,17 +28,14 @@
 - **Machine Learning frameworks** (like TensorFlow, Keras)
 - **Data Science concepts** and techniques.
 
----
 
 ### 📫 How to reach me:
 - **Email:** virendrabadgo@gmail.com
 
----
 
 ### 📄 Know about my experiences:
 - [Resume and Experiences](https://drive.google.com/drive/folders/1SW4lPpe8Lj4dDvllGhCEckAjM5M86M1Z?usp=sharing)
 
----
 
 ### ⚡ Fun fact:
 - I can spend hours getting lost in the fascinating world of algorithms and AI, but I also love cracking jokes about tech!
@@ -58,8 +48,6 @@
   <a href="https://kaggle.com/virendrabadgotya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="virendrabadgotya" height="30" width="40" /></a>
   <a href="https://discord.gg/r8xVt4bn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="r8xVt4bn" height="30" width="40" /></a>
 </p>
-
----
 
 ### 💻 Languages and Tools:
 <p align="center">
