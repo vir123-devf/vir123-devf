@@ -286,3 +286,29 @@
 
 </div>
 
+<table>
+<tr>
+<td width="55%">
+
+### 🔭 I'm currently working on:
+- **[Plant Disease Prediction using CNN](https://github.com/vir123-devf/Plant_Disease_Predictor)** - Built a CNN model with TensorFlow and Streamlit to classify plant diseases with 97% training and 88% validation accuracy.
+
+### 👯 I'm looking to collaborate on:
+- **Machine Learning projects**, especially in **Computer Vision** and **Time-Series Analysis**.
+
+### 🤝 I'm looking for help with:
+- **Optimizing Machine Learning models** for better performance.
+
+</td>
+
+<td width="45%" align="center">
+  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI Developer GIF" />
+
+</td>
+</tr>
+</table>
+
+---
+
+
