@@ -203,3 +203,65 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vir123-devf" alt="GitHub Streak" />
 </p>
 
+
+<h1 align="center">Hi 👋, I'm Virendra</h1>
+<h3 align="center">A passionate AI/ML Developer</h3>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=vir123-devf&label=Profile%20views&color=0e75b6&style=flat" alt="vir123-devf" /> 
+</p>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 I'm currently working on: 
+- **Plant Disease Prediction using CNN**  
+  Built a CNN model with TensorFlow and Streamlit to classify plant diseases with **97% training** and **88% validation** accuracy.
+
+### 👯 I'm looking to collaborate on:
+- **Machine Learning projects**, especially in **Computer Vision** and **Time-Series Analysis**.
+
+### 🤝 I'm looking for help with:
+- **Optimizing Machine Learning models** for better performance.
+
+### 👨‍💻 All of my projects are available at:
+- [**GitHub Repositories**](https://github.com/vir123-devf?tab=repositories)
+
+</td>
+
+<td width="50%" align="center">
+  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lnOHpjcWdtZWV4aHhncW9iOHQ1YjM1dmFjN29tYTFhNzZ6OWQ1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHONQ79FdWZhAI0/giphy.gif" alt="AI Developer" width="300" height="300"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 📫 Connect with me:
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="30"/> &nbsp;
+  <a href="mailto:virendrabadgo@gmail.com">virendrabadgo@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="Document" height="30" width="30"/> &nbsp;
+  <a href="https://drive.google.com/drive/folders/1SW4lPpe8Lj4dDvllGhCEckAjM5M86M1Z?usp=sharing">Resume</a>
+</p>
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" width="30"/> &nbsp;
+  <a href="https://github.com/vir123-devf">GitHub</a>
+</p>
+
+---
+
