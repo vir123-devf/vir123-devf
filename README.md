@@ -112,9 +112,9 @@
   <img src="https://komarev.com/ghpvc/?username=vir123-devf&label=Profile%20views&color=0e75b6&style=flat" alt="vir123-devf" /> 
 </p>
 
-<!-- Background Snake GIF -->
+<!-- Background Snake GIF with lighter opacity -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="position: fixed; top: 0; left: 0; z-index: -1; opacity: 0.3;" alt="Snake Game GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="position: fixed; top: 0; left: 0; z-index: -1; opacity: 0.1;" alt="Snake Game GIF" />
 </p>
 
 <table>
