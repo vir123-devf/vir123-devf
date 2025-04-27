@@ -257,6 +257,12 @@
   <img src="https://komarev.com/ghpvc/?username=vir123-devf&label=Profile%20views&color=0e75b6&style=flat" alt="vir123-devf" /> 
 </p>
 
+ <h1 align="center">Hi 👋, I'm Virendra</h1>
+<h3 align="center">A passionate AI/ML Developer</h3>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vir123-devf&label=Profile%20views&color=0e75b6&style=flat" alt="vir123-devf" /> 
+</p>
+
 <!-- Snake Game GIF as Background Wallpaper -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="position: absolute; top: 0; left: 0; z-index: -1; width: 100%; height: 100%; object-fit: cover; opacity: 0.3;" alt="Snake Game Background" />
@@ -328,5 +334,39 @@
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="80" height="40"/>
   </a> 
-  <
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+  </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</a>
+
+</p>
+
+### 🏆 GitHub Trophies:
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vir123-devf" alt="vir123-devf" />
+  </a> 
+</p>
+
+### 📊 GitHub Streak:
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vir123-devf&" alt="vir123-devf" />
+</p>
 
