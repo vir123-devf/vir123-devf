@@ -105,3 +105,34 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vir123-devf&" alt="vir123-devf" />
 </p>
 
+
+<h1 align="center">Hi 👋, I'm Virendra</h1>
+<h3 align="center">A passionate AI/ML Developer</h3>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vir123-devf&label=Profile%20views&color=0e75b6&style=flat" alt="vir123-devf" /> 
+</p>
+
+<!-- Background Snake GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="position: fixed; top: 0; left: 0; z-index: -1; opacity: 0.3;" alt="Snake Game GIF" />
+</p>
+
+<table>
+<tr>
+<td width="55%">
+
+### 🔭 I'm currently working on:
+- **[Plant Disease Prediction using CNN](https://github.com/vir123-devf/Plant_Disease_Predictor)** - Built a CNN model with TensorFlow and Streamlit to classify plant diseases with 97% training and 88% validation accuracy.
+
+### 👯 I'm looking to collaborate on:
+- **Machine Learning projects**, especially in **Computer Vision** and **Time-Series Analysis**.
+
+### 🤝 I'm looking for help with:
+- **Optimizing Machine Learning models** for better performance.
+
+</td>
+
+<td width="45%" align="center">
+  
+<img src
+
