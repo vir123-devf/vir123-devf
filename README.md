@@ -99,8 +99,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=vir123-devf" alt="vir123-devf" />
   </a> 
 </p>
-
-### 📊 GitHub Streak:
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vir123-devf&" alt="vir123-devf" />
-</p>
