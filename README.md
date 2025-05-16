@@ -9,6 +9,10 @@
 
 ### 🔭 I'm currently working on:
 - **[Plant Disease Prediction using CNN](https://github.com/vir123-devf/Plant_Disease_Predictor)** - Built a CNN model with TensorFlow and Streamlit to classify plant diseases with 97% training and 88% validation accuracy.
+  
+### 🧪 Research Experience:
+- **Research Intern at IIT (ISM) Dhanbad – Summer 2025**  
+  Working on AI/ML-based research under faculty guidance. Exploring real-world data and model optimization techniques.
 
 ### 👯 I'm looking to collaborate on:
 - **Machine Learning projects**, especially in **Computer Vision** and **Time-Series Analysis**.
