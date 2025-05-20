@@ -24,7 +24,7 @@
 
 <td width="45%" align="center">
   
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="600" alt="AI Developer GIF" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="550" alt="AI Developer GIF" />
 
 </td>
 </tr>
