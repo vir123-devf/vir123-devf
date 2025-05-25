@@ -8,7 +8,7 @@
 <td width="55%">
 
 ### 🔭 I'm currently working on:
-- **[Soil_classification](https://github.com/vir123-devf/Soil-Classification_annam)** - This repository contains the solution for the Soil Image Classification Challenge hosted by IIT Ropar in collaboration with Annam.ai. 
+- **[Soil_Classification](https://github.com/vir123-devf/Soil-Classification_annam)** - This repository contains the solution for the Soil Image Classification Challenge hosted by IIT Ropar in collaboration with Annam.ai. 
   
 ### 🧪 Research Experience:
 - **Research Intern at IIT (ISM) Dhanbad – Summer 2025**  
