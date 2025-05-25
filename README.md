@@ -8,7 +8,7 @@
 <td width="55%">
 
 ### 🔭 I'm currently working on:
-- **[Plant Disease Prediction using CNN](https://github.com/vir123-devf/Plant_Disease_Predictor)** - Built a CNN model with TensorFlow and Streamlit to classify plant diseases with 97% training and 88% validation accuracy.
+- **[Soil_classification](https://github.com/vir123-devf/Soil-Classification_annam)** - This repository contains the solution for the Soil Image Classification Challenge hosted by IIT Ropar in collaboration with Annam.ai. 
   
 ### 🧪 Research Experience:
 - **Research Intern at IIT (ISM) Dhanbad – Summer 2025**  
