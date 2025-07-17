@@ -8,11 +8,12 @@
 <td width="55%">
 
 ### 🔭 I'm currently working on:
-- **[Soil_Classification](https://github.com/vir123-devf/Soil-Classification_annam)** - This repository contains the solution for the Soil Image Classification Challenge hosted by IIT Ropar in collaboration with Annam.ai. 
+- **AI Research Internship – Annam.AI (IIT Ropar)** – Currently working as an AI Intern on a confidential project in the domain of agricultural AI. The work involves applying machine learning techniques for real-time crop analysis and predictive modeling to support intelligent decision-making in farming systems.
+ 
   
 ### 🧪 Research Experience:
 - **Research Intern at IIT (ISM) Dhanbad – Summer 2025**  
-  Working on AI/ML-based research under faculty guidance. Exploring real-world data and model optimization techniques.
+  Worked on AI/ML-based research under faculty guidance. Exploring real-world data and model optimization techniques.
 
 ### 👯 I'm looking to collaborate on:
 - **Machine Learning projects**, especially in **Computer Vision** and **Time-Series Analysis**.
