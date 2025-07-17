@@ -17,7 +17,8 @@
 
 ### 🧪 Research Experience:
 - **Research Intern – IIT (ISM) Dhanbad (Summer 2025)**  
-  Engaged in AI/ML-based research under faculty mentorship. Focused on model optimization techniques and real-world data-driven experiments.
+  Worked on an AI-powered mango grading system using CNN-based classification and transfer learning.
+  Developed and compared models like ResNet18, VGG16, and MobileNetV2, with ResNet18 achieving the best performance.
 
 ### 👯 Looking to Collaborate On:
 - **Machine Learning Projects**, especially in **Computer Vision** and **Time-Series Analysis**.
