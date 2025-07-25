@@ -12,7 +12,7 @@
 <td width="55%">
 
 ### 🔭 Currently Working On:
-- **AI Research Internship – Annam.AI (IIT Ropar)**  
+- **AI Internship – Annam.AI (IIT Ropar)**  
   Working as an AI Intern on a **confidential agricultural AI project**. Focused on applying machine learning techniques for real-time crop analysis and predictive modeling to support intelligent decision-making.
 
 ### 🧪 Research Experience:
