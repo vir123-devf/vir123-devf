@@ -11,14 +11,18 @@
 <tr>
 <td width="55%">
 
-### 🔭 Currently Working On:
-- **AI Internship – Annam.AI (IIT Ropar)**  
-  Working as an AI Intern on a **confidential agricultural AI project**. Focused on applying machine learning techniques for real-time crop analysis and predictive modeling to support intelligent decision-making.
+### 🔬 Research & Internship Experience  
 
-### 🧪 Research Experience:
+- **AI Intern – Annam.AI (IIT Ropar, Summer 2025)**  
+  Completed an AI internship on a **confidential agricultural AI project**.  
+  Applied machine learning techniques for real-time crop analysis and predictive modeling to support intelligent decision-making.  
+
 - **Research Intern – IIT (ISM) Dhanbad (Summer 2025)**  
-  Worked on an AI-powered mango grading system using CNN-based classification and transfer learning.
-  Developed and compared models like ResNet18, VGG16, and MobileNetV2, with ResNet18 achieving the best performance.
+  Worked on an AI-powered mango grading system using CNN-based classification and transfer learning.  
+  Developed and compared models like ResNet18, VGG16, and MobileNetV2, with **ResNet18 achieving the best performance**.  
+
+📌 *Currently seeking new AI/ML internship opportunities.*  
+
 
 ### 👯 Looking to Collaborate On:
 - **Machine Learning Projects**, especially in **Computer Vision** and **Time-Series Analysis**.
@@ -46,7 +50,7 @@
 - ✉️ Email: **virendrabadgo@gmail.com**
 
 ### 📄 My Resume & Experience:
-- 📎 [Resume Link](https://drive.google.com/drive/folders/1SW4lPpe8Lj4dDvllGhCEckAjM5M86M1Z?usp=sharing)
+- 📎 [Resume Link](https://drive.google.com/file/d/1-sfYnCNaJomOXRcb7S7EJZ2xwF500d4D/view?usp=sharing)
 
 ### ⚡ Fun Fact:
 - I get deeply immersed in AI algorithms... and equally in making fun of them!
@@ -89,6 +93,7 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=vir123-devf&theme=algolia&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vir123-devf&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
+
