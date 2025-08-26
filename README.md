@@ -91,10 +91,11 @@
 
 ---
 
-### 🏆 GitHub Trophies  
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vir123-devf&theme=algolia&margin-w=15&margin-h=15&no-frame=false&no-bg=false" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vir123-devf&show_icons=true&theme=algolia" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vir123-devf&theme=algolia" alt="GitHub Streak"/>
 </p>
 
 
