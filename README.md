@@ -50,7 +50,7 @@
 - ✉️ Email: **virendrabadgo@gmail.com**
 
 ### 📄 My Resume & Experience:
-- 📎 [Resume Link](https://drive.google.com/file/d/1VdLMEHJcmhvTZSleUoSCPRUWD6S4gbHU/view?usp=sharing)
+- 📎 [Resume Link](https://drive.google.com/file/d/1O-uOB_6tsRlSfed0y9dOwjCk3BUcnDtj/view?usp=sharing)
 
 ### ⚡ Fun Fact:
 - I get deeply immersed in AI algorithms... and equally in making fun of them!
