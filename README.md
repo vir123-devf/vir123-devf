@@ -58,7 +58,7 @@ A Passionate AI/ML Developer | B.Tech EE @ SVNIT | GATE DA AIR 729 | Top 5 Winne
 - ✉️ Email: **virendrabadgo@gmail.com**
 
 ### 📄 My Resume & Experience:
-- 📎 [Resume Link](https://drive.google.com/file/d/1O-uOB_6tsRlSfed0y9dOwjCk3BUcnDtj/view?usp=sharing)
+- 📎 [Resume Link](https://drive.google.com/file/d/1SWV19rL6SuAZF9ltWerehF1BPQgN9etF/view?usp=sharing)
 
 ### ⚡ Fun Fact:
 - I get deeply immersed in AI algorithms... and equally in making fun of them!
