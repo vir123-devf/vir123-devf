@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Virendra Badgotya</h1>
 
 <h3 align="center">
-🚀 AI/ML Engineer | NLP Researcher @ AI4Bharat (IIT Madras)  
+🚀 AI/ML Engineer | AI/ML Intern @ AI4Bharat (IIT Madras)  
 🎯 GATE DA AIR 729 | Hackathon Winner | Building Real-World AI Systems
 </h3>
 
