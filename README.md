@@ -2,7 +2,7 @@
 
 <h3 align="center">
 🎓 M.Tech (DSAI) @ IIT Madras
-🔬 AI Researcher | Building Multilingual & Production AI Systems
+| Building Multilingual & Production AI Systems
 </h3>
 
 <p align="center">
