@@ -13,15 +13,16 @@
 
 ## 🧠 About Me
 
-🎓 Incoming **M.Tech. in Data Science & Artificial Intelligence @ IIT Madras (2026–2028)**
-🎓 B.Tech Electrical Engineering @ **SVNIT Surat (2022–2026)**  
-💡 Passionate about **AI Research, NLP, and Intelligent Systems**  
-🌏 Working on **real-world AI problems across agriculture, language, and deployment**  
+🎓 Incoming **M.Tech. in Data Science & Artificial Intelligence @ IIT Madras (2026–2028)**  
+🎓 B.Tech in **Electrical Engineering @ SVNIT Surat (2022–2026)**  
 
-- 🔬 Currently at **AI4Bharat (IIT Madras)** working on **IndicTrans multilingual models**
-- ⚙️ Building **Verifiable AI Systems** @ Alloan (Rust + Haskell)
-- 🌱 Strong focus on **Deep Learning, LLMs, and Production AI**
-- 🎯 Goal: Become a **world-class ML Engineer / AI Researcher**
+💡 Passionate about **AI Research, Natural Language Processing (NLP), and Intelligent Systems**  
+🌏 Building **real-world AI solutions** across agriculture, multilingual NLP, and production AI systems.
+
+- 🔬 Conducted AI research at **AI4Bharat (IIT Madras)**, contributing to **IndicTrans multilingual language models**.
+- ⚙️ Developed **Verifiable AI Systems** at **Alloan** using **Rust** and **Haskell**.
+- 🌱 Interested in **Deep Learning, Large Language Models (LLMs), and Production AI**.
+- 🎯 Aspiring to become a **world-class Machine Learning Engineer and AI Researcher**.
 
 ---
 
