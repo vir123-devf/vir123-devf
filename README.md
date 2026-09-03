@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-🎓 Incoming **M.Tech. in Data Science & Artificial Intelligence @ IIT Madras (2026–2028)**  
+🎓 **M.Tech. in Data Science & Artificial Intelligence @ IIT Madras (2026–2028)**  
 🎓 B.Tech in **Electrical Engineering @ SVNIT Surat (2022–2026)**  
 
 💡 Passionate about **AI Research, Natural Language Processing (NLP), and Intelligent Systems**  
